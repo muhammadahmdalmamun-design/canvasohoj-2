@@ -1,0 +1,17 @@
+{
+  "name": "ক্যানভা সহজ",
+  "short_name": "ক্যানভা সহজ",
+  "description": "ধাপে ধাপে ডিজাইন বানানোর সহজ সফটওয়্যার",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#F3EFF8",
+  "theme_color": "#6B3FA0",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
